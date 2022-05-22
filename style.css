@@ -380,7 +380,7 @@ header .navbar ul li a:hover{
 .contact .row .content{
     flex:1 1 30rem;
     padding:4rem;
-    padding-bottom: 0;
+    padding-bottom: 15rem;
 }
 
 .contact .row form{
